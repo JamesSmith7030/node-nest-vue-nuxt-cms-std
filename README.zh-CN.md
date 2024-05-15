@@ -2,7 +2,7 @@
 
 > 使用 nest.js 基于 node.js 和 nuxt.js 基于 vue.js 开发的 CMS 系统，实现 SSR 服务端渲染，且可生成静态HTML，有利于SEO。适合企业搭建SEO型网站。
 
-[English](./README.md) | 简体中文]
+[English](./README.md) | 简体中文] | [Node.js CMS——基于 NestJS/NuxtJS 的完整开源项目](https://blog.givebest.cn/nodejs/2021/10/22/node.js-cms-based-nest.js-nuxt.js-vue.js.html)
 
 
 ## 开始使用
